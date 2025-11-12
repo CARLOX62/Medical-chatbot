@@ -1,0 +1,29 @@
+# LangChain Ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-pinecone
+langchain-huggingface
+langchain-groq
+
+
+
+# Embeddings / Transformers
+sentence-transformers
+huggingface_hub
+
+# PDF & Data Handling
+pypdf
+PyPDF2
+python-docx
+pytesseract
+pillow
+
+
+# Vector Database
+pinecone-client
+# pinecone
+
+
+
+-e .
